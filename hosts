@@ -1,0 +1,284 @@
+﻿# host addresses
+127.0.0.1  localhost localhost.bb.com.br localhost.desenv.bb.com.br localhost.estatico.bb.com.br
+
+#ip's fixos utilizados por aplicacoes
+#10.66.49.210 172.17.171.151
+#10.66.49.212 172.17.189.47
+#10.66.49.213 172.17.171.44
+#10.66.63.39 172.22.30.14 --- ip bloomberg
+
+#duplicados
+#10.66.61.84 mqsext.desenv.bb.com.br
+#10.33.147.216 rvd.desenv.bb.com.br
+
+#em avaliacao
+
+
+#localhost aapf
+
+#aapf desenv
+
+
+#vpn - indra bb
+10.66.50.244 tn3270e.df.bb sisbb.extranet.bb.com.br
+#10.66.49.36  aplic.intranet.bb.com.br # warsaw
+10.66.51.94  portal.intranet.bb.com.br
+10.66.49.15  atf.intranet.bb.com.br
+#10.66.51.49  connections.bb.com.br # warsaw
+#10.66.51.68  correioweb.bb.com.br # warsaw
+10.66.52.128 estatico.extranet.bb.com.br
+10.66.49.9   git.intranet.bb.com.br
+10.66.51.229 humanograma.intranet.bb.com.br
+10.66.51.47  login.intranet.bb.com.br
+10.66.50.182 intranet.bb.com.br
+#10.66.50.57  intranet2.bb.com.br # warsaw
+10.66.52.88  login.extranet.bb.com.br
+10.66.49.34  logviewer.intranet.bb.com.br
+10.66.49.35  neeweb.bb.com.br
+#10.66.52.87  plataforma.extranet.bb.com.br plataforma.administrativa.bb.com.br # warsaw
+#10.66.51.50  wiki.bb.com.br # warsaw
+10.66.49.79  genti.intranet.bb.com.br
+10.66.51.250 devops.intranet.bb.com.br
+10.66.52.150 gitlab.intranet.bb.com.br
+10.66.49.42 git.labbs.com.br
+10.66.49.92 fontes.intranet.bb.com.br
+10.66.49.83 adfs.bb.com.br
+#10.66.49.44 vdi.bb.com.br vdivmwint.bb.com.br
+10.66.51.217 alm-license.intranet.bb.com.br
+10.66.49.90 aic.intranet.bb.com.br
+#10.66.49.125 pxl1vmwvd013.dispositivos.bb.com.br 
+#10.66.49.116 pxl1vmwvd010.dispositivos.bb.com.br 
+#10.66.49.169 pxl1vmwvd011.dispositivos.bb.com.br 
+#10.66.49.170 pxl1vmwvd012.dispositivos.bb.com.br
+10.66.49.161 aplic.ldapbb.bb.com.br
+10.66.51.98 softwarelivre.bb.com.br
+10.66.49.124 i9ditec.bb.com.br
+10.66.49.42 nextcloud.labbs.com.br
+10.66.49.130 tdws-cert.cblcnet.com.br
+10.66.49.131 distribuidor.cva.bb.com.br
+10.66.49.132 canais.labbs.com.br
+10.66.49.52 digitizar.intranet.bb.com.br
+10.66.49.102 ftabb.intranet.bb.com.br
+10.66.49.85 buildforge.intranet.bb.com.br
+10.66.49.75 canais.fontes.intranet.bb.com.br
+10.66.49.58 eni.bb.com.br
+#10.66.49.133 sso.intranet.bb.com.br # warsaw
+10.66.49.134 cloud.ci.intranet.bb.com.br chartmuseum.devops.nuvem.bb.com.br
+10.66.49.136 monitorhbk.bb.com.br
+10.66.49.137 pgi3.intranet.bb.com.br
+10.66.49.138 dsxusauat.worldnet.intrabb.bb.com.br
+10.66.49.139 metaanalitico02.intranet.bb.com.br
+10.66.49.140 metaanalitico04.intranet.bb.com.br
+10.66.49.141 portalanalitico02.intranet.bb.com.br
+10.66.49.10 sonar.intranet.bb.com.br
+10.66.49.98 build-deploy.aic.servicos.bb.com.br
+10.66.49.84 uc.intranet.bb.com.br
+10.66.49.32 mongoexpressfortuna.labbs.com.br
+10.66.49.176 gwdb2.bb.com.br
+10.66.49.46 qualysoft.intranet.bb.com.br
+10.66.49.206 prov.plataforma-gam.desenv.bb.com.br plataforma-gam.desenv.bb.com.br
+10.66.51.242 plataforma.atendimento.bb.com.br
+10.66.49.207 homora-scan.hm.bb.com.br
+#10.33.147.159 servcom-intranet.bb.com.br servcom.atendimento.bb.com.br servcom.bb.com.br # warsaw
+10.66.49.209 exa01-scan.hm.bb.com.br
+10.66.49.211 d3c1-cct1.desenv.bb.com.br
+10.66.49.184 exa02-scan.servicos.bb.com.br
+10.66.49.214 sisredexcct2-scan.bb.com.br
+#10.66.49.225 autoatendimento.desenv.bb.com.br # warsaw
+10.66.51.57 alm.intranet.bb.com.br
+10.33.146.109 ram.intranet.bb.com.br
+#10.33.147.87 intradev8.bb.com.br # warsaw
+#10.33.147.194 login.desenv.bb.com.br sso.desenv.bb.com.br # Warsaw
+10.33.147.105 qmf.bb.com.br
+10.33.147.159 servcom-des.bb.com.br apf.desenv.servcom.bb.com.br
+#10.33.146.93 plataforma.desenv.bb.com.br # warsaw
+#10.66.49.147  plataforma.hm.bb.com.br # Warsaw
+10.66.49.148 hm.estatico.bb.com.br
+10.66.49.51 estatico.bb.com.br
+#10.33.147.207 login.hm.bb.com.br # W/arsaw
+#10.33.147.215 rva.desenv.bb.com.br # warsaw
+10.66.49.145 rvd.desenv.bb.com.br
+10.33.147.205 desenv.estatico.bb.com.br
+10.33.147.219 rdz.desenv.bb.com.br
+10.66.49.122 log.nuvem.desenv.bb.com.br tracing.nuvem.desenv.bb.com.br
+10.66.49.99 charts.nuvem.bb.com.br log.svc.nuvem.bb.com.br tracing.svc.nuvem.bb.com.br qteste.intranet.bb.com.br
+10.66.49.128 log.nuvem.hm.bb.com.br tracing.nuvem.hm.bb.com.br
+10.66.50.236 dsdb2d01.plexdes.bb.com.br  
+#10.66.49.149 hbk.hm.bb.com.br # warsaw
+10.66.49.150 nuvem.dc.desenv.bb.com.br
+10.66.61.228 exa01-scan.desenv.bb.com.br
+#10.66.49.154 mob.hm.bb.com.br # Warsaw
+10.66.49.146 mobi2.desenv.bb.com.br
+10.66.49.157 sisredex-mdb-ext.hm.bb.com.br
+10.66.49.158 itceservicos.hm.bb.com.br
+10.66.49.159 flxservicos.hm.bb.com.br
+10.66.49.160 catus-uat.hm.bb.com.br
+10.66.49.122 iib.tsb.desenv.bb.com.br
+10.66.61.29 ems.desenv.bb.com.br
+10.66.61.36 dxl1big00052.dispositivos.bb.com.br 
+10.66.61.37 dxl1big00053.dispositivos.bb.com.br 
+10.66.63.126 dxl0ems00001.dispositivos.bb.com.br 
+10.66.62.137 dxl0ems00002.dispositivos.bb.com.br 
+10.66.61.29  dxl0ems00006.dispositivos.bb.com.br dxl0ems00007.dispositivos.bb.com.br  
+10.66.62.236 iib.tsb.desenv.bb.com.br
+10.66.62.56 bdb2h01.plexhom.bb.com.br
+10.66.63.16 tsb.redis.bdh.desenv.bb.com.br
+10.66.61.41 ninho.iib.desenv.bb.com.br
+10.66.62.249 des.deploy.nuvem.bb.com.br hml.deploy.nuvem.bb.com.br
+10.66.49.134 argocd.devops.nuvem.bb.com.br
+10.66.62.250 caas.nuvem.bb.com.br
+10.66.62.236 kube-api.nuvem.desenv.bb.com.br
+10.66.62.36 kube-api.nuvem.hm.bb.com.br
+10.66.62.147 kube-api.svc.nuvem.bb.com.br
+10.66.62.161 qsonar.intranet.bb.com.br 
+10.66.49.103 auth.automacao.nuvem.bb.com.br
+10.66.50.235 mqsext.desenv.bb.com.br
+10.66.49.151 iib-slave.redis.bdh.desenv.bb.com.br
+10.66.49.202 silo01.mysql.bdh.desenv.bb.com.br
+10.66.61.204 silo01.mysql.bdh.hm.bb.com.br
+10.66.61.241 iib-slave.redis.bdh.hm.bb.com.br
+10.66.50.118 mqsext.hm.bb.com.br
+10.66.62.145 rvd.hm.bb.com.br
+10.66.62.144 ems-outros.hm.bb.com.br
+10.66.62.144 hxl0ems00004.dispositivos.bb.com.br
+10.66.63.127 hxl0ems00005.dispositivos.bb.com.br
+10.66.63.128 hxl0ems00006.dispositivos.bb.com.br
+10.66.63.103 hxl1big00007.dispositivos.bb.com.br
+10.66.63.104 hxl1big00009.dispositivos.bb.com.br
+10.66.63.105 hxl1big00051.dispositivos.bb.com.br
+#10.66.62.33 aapfteste.hm.bb.com.br # warsaw
+#10.66.63.86 www2.desenv.bb.com.br # warsaw
+10.66.63.125 qsonar-snapshot.intranet.bb.com.br
+10.66.61.245 apf.hm.servcom.bb.com.br
+#10.66.62.132 autoatendimento.hm.bb.com.br # warsaw
+#10.66.62.80 aapjteste.hm.bb.com.br # warsaw
+#10.66.62.77 aapjprojeto.desenv.bb.com.br # warsaw
+#10.66.62.78 aapjteste.desenv.bb.com.br # warsaw
+#10.66.62.79 aapjprojeto.hm.bb.com.br # warsaw
+10.66.49.219 mobi.desenv.bb.com.br 
+10.66.49.146 mobi2.desenv.bb.com.br 
+10.66.63.117 mobipj.desenv.bb.com.br
+10.66.49.195 dts-engine-dev.df.intrabb.bb.com.br
+10.66.62.108 mobiaai.hm.bb.com.br
+10.66.62.36 channel.mye.hm.bb.com.br
+10.66.63.168 rdz.piloto.desenv.bb.com.br
+10.66.40.216 dts-engine-dev.df.intrabb.bb.com.br
+
+10.66.62.244 analytics.fontes.intranet.bb.com.br
+10.66.52.168  binarios.intranet.bb.com.br
+10.66.41.117 web-analytics.desenv.bb.com.br
+
+10.66.62.102 dts-sbx.servicos.bb.com.br 
+10.66.62.103 dts-prd.servicos.bb.com.br
+
+#10.33.144.34 autoatendimento-projetos.hm.bb.com.br ] # warsaw
+#10.33.144.35 autoatendimento-testes.hm.bb.com.br # warsaw
+
+10.66.62.172 dxl0ems00011.dispositivos.bb.com.br 
+
+
+10.66.63.29 hxl1bdhmg021.dispositivos.bb.com.br 
+10.66.63.219 hxl1bdhmg023.dispositivos.bb.com.br 
+10.66.63.220 hxl1bdhmg025.dispositivos.bb.com.br 
+
+10.66.41.165 silo8-master.mysql.bdh.desenv.bb.com.br 
+
+## automatiza genti - produção
+159.223.160.16 automatizagenti.com.br www.automatizagenti.com.br
+159.223.160.16 api.automatizagenti.com.br www.api.automatizagenti.com.br
+
+## automatiza genti - staging
+159.223.160.16 stage.automatizagenti.com.br www.stage.automatizagenti.com.br
+159.223.160.16 stage.api.automatizagenti.com.br www.stage.api.automatizagenti.com.br
+
+201.33.144.176  hxw1ath00046
+201.33.144.177  hxw1ath00038
+201.33.144.178  hxw1ath00041
+201.33.144.179  hxw1ath00044
+201.33.144.180  hxw1ath00048
+201.33.144.181  hxw1ath00047
+201.33.144.182  hxw1ath00039
+201.33.144.183  hxw1ath00043
+201.33.144.184  hxw1ath00045
+201.33.144.185  hxw1ath00042
+201.33.144.186  hxw1ath00082
+201.33.144.187  hxw1ath00092
+201.33.144.188  hxw1ath00085
+201.33.144.189  hxw1ath00086
+201.33.144.190  hxw1ath00090
+201.33.144.191  hxw1ath00104
+201.33.144.192  hxw1ath00098
+201.33.144.193  hxw1ath00106
+201.33.144.157  hxw1ath00097
+201.33.144.162  hxw1ath00099
+201.33.144.163  hxw1ath00100
+201.33.144.164  hxw1ath00101
+201.33.144.166  hxw1ath00102
+201.33.144.167  hxw1ath00103
+201.33.144.168  hxw1ath00105
+
+201.33.148.167 gmtedi.desenv.bb.com.br
+
+10.66.51.20 s3.hm.bb.com.br
+
+10.66.64.7 kodiak.intranet.bb.com.br
+10.66.49.203 silo02-master.mysql.bdh.servicos.bb.com.br
+
+
+ 
+
+127.0.0.1 automatiza-backend	
+
+127.0.0.1 automatiza-mysql
+
+#10.66.51.171 bdhdb2-p2utl-gendw.servicos.bb.com.br
+10.66.51.173 bdhdb2-p2utl-gendw.servicos.bb.com.br
+
+10.66.51.175 exa01-scan.servicos.bb.com.br 
+#10.66.51.176 exa01-scan.servicos.bb.com.br 
+
+10.66.63.95 exa02-scan.servicos.bb.com.br 
+
+201.33.148.58  s3.hm.bb.com.br
+
+201.33.148.128 dxl1big00234.dispositivos.bb.com.br
+201.33.148.129 dxl1big00274.dispositivos.bb.com.br
+201.33.148.130 dxl1big00275.dispositivos.bb.com.br
+201.33.148.131 dxl1big00278.dispositivos.bb.com.br
+
+10.66.50.107 portal.web.intranet.bb.com.br
+#10.66.62.171 portal.web.intranet.bb.com.br
+
+10.66.11.26 portal.web.intranet.bb.com.br/wp-admin/
+
+
+10.66.64.11 hxl1cbo00084.dispositivos.bb.com.br
+
+10.254.234.120 coban-api-teste.hm.bb.com.br
+
+
+10.66.40.201 scrag.dev.hm.bb.com.br
+#201.33.148.101 scrag.dev.hm.bb.com.br
+
+201.33.148.167 gmtedi.desenv.bb.com.br
+
+10.66.64.37 10.254.115.212
+
+201.33.148.86 ninho-openshift.iib.desenv.bb.com.br
+
+10.66.62.252 caas.nuvem.bb.com.br
+
+10.66.41.94 ldap.desenv.bb.com.br
+
+201.33.148.145  dxl1bdhrd301.dispositivos.bb.com.br
+201.33.148.146  dxl1bdhrd302.dispositivos.bb.com.br
+201.33.148.147 dxl1bdhrd303.dispositivos.bb.com.br
+
+# Added by Docker Desktop
+192.168.2.7 host.docker.internal
+192.168.2.7 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+10.66.61.7
